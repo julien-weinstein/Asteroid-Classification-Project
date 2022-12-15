@@ -5,6 +5,7 @@ In this notebook, you will find our data sourcing, cleaning, manipulation and mo
 We used a number of supervised, unsupervised, and deep learning approaches to tackle this problem. Some of the libraries we incorporated were:
 -KNearest Neighbor
 -Logistic Regression
+-Random Forest
 -Support Vector Classifier
 -PCA
 -TensorFlow
@@ -13,4 +14,8 @@ We used a number of supervised, unsupervised, and deep learning approaches to ta
 # Model Results
 Here are some examples of the results generated from the models:
 
+**TensorFlow Binary Cross-Entropy Model**
 ![](https://i.ibb.co/nc7fCzk/Screen-Shot-2022-12-15-at-11-20-57-AM.png?raw=True)
+
+**PyTorch Model ROC Curve**
+![](https://i.ibb.co/qYJ4NFY/Screen-Shot-2022-12-15-at-11-24-14-AM.png?raw = True)
