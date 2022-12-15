@@ -9,3 +9,8 @@ We used a number of supervised, unsupervised, and deep learning approaches to ta
 -PCA
 -TensorFlow
 -PyTorch
+
+# Model Results
+Here are some examples of the results generated from the models:
+
+![](https://i.ibb.co/nc7fCzk/Screen-Shot-2022-12-15-at-11-20-57-AM.png?raw=True)
