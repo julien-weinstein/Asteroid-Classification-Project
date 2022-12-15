@@ -3,12 +3,19 @@ In this notebook, you will find our data sourcing, cleaning, manipulation and mo
 
 # Modules
 We used a number of supervised, unsupervised, and deep learning approaches to tackle this problem. Some of the libraries we incorporated were:
+
 -KNearest Neighbor
+
 -Logistic Regression
+
 -Random Forest
+
 -Support Vector Classifier
+
 -PCA
+
 -TensorFlow
+
 -PyTorch
 
 # Model Results
